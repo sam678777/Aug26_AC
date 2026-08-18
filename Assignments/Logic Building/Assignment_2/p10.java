@@ -2,7 +2,7 @@ class Main{
 	
 	public static void main(String[] args){
 
-		int dayNumber = 2;
+		int dayNumber = 3;
 
 		switch(dayNumber){
 			case 1 -> System.out.println("The day is Monday");
