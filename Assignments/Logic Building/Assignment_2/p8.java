@@ -5,7 +5,7 @@ class Main{
 		int science = 85;
 		int history = 90;
 		
-		double avg = ((maths+science+history)/3.0);
+		int avg = ((maths+science+history)/3);
 		if(avg>=90){
 			System.out.println("Grade A");
 		} 
